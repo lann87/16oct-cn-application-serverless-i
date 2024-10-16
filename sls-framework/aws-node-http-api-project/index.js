@@ -1,8 +1,8 @@
 module.exports.handler = async (event) => {
     // write hello world to the logs
-    console.log("Hello World");
+    console.log("Hello There! Alan");
     // assign a value to a variable
-    let message = "Go Serverless v3.0! Your function executed successfully!";
+    let message = "Go Serverless v4.4.6! Your function executed successfully!";
 
     return {
         statusCode: 200,
